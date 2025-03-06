@@ -5,7 +5,7 @@
 
 A modern, elegant Pomodoro Timer application that helps you implement the famous productivity technique with a beautiful GUI interface.
 
-![Pomodoro Timer Screenshot](https://github.com/masood2004/pomodoro-timer/images/Screenshot.png)
+![Pomodoro Timer Screenshot](https://raw.githubusercontent.com/masood2004/pomodoro-timer/refs/heads/master/images/Screenshot.png)
 
 ## 🌟 Features
 
